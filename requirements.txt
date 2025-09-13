@@ -1,0 +1,26 @@
+# Dependências para visualização de mapas com GeoPandas e Folium
+# Versões compatíveis e estáveis
+
+# Biblioteca principal para dados geoespaciais
+geopandas>=0.12.0
+
+# Biblioteca para criação de mapas interativos
+folium>=0.14.0
+
+# Biblioteca para projeções cartográficas
+pyproj>=3.4.0
+
+# Biblioteca para geometrias
+shapely>=1.8.0
+
+# Biblioteca para leitura de formatos geoespaciais
+fiona>=1.8.0
+
+# Dependências para SQL Server
+pyodbc>=4.0.0
+pandas>=1.3.0
+
+# Dependências adicionais que podem ser necessárias
+numpy>=1.21.0
+branca>=0.6.0
+jinja2>=3.0.0 
